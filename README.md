@@ -18,3 +18,20 @@ Repositorio del código de Back para evaluación técnica
 	de lo contrario, solo se actualizará la bd. 
 - Damos Click al boton de Ejecutar o depurar en la barra de Herramientas de debug.
 
+# Base de datos
+## Inicialmente se agrega informacion en la tablas `Users`, `Authorities` y `Estatus`
+
+## Usuarios
+- user: `admin`       password: `admin` 
+- user: `promotor`   password: `promotor00`
+- user: `evaluador`   password: `evaluador00`
+
+## Authorities
+- `ROLE_ADMIN`
+- `ROLE_PROMOTOR`
+- `ROLE_EVALUADOR`
+
+## Estatus
+- `Enviado`
+- `Autorizado`
+- `Rechazado`

@@ -10,8 +10,8 @@ using Prospectos.Data;
 namespace Prospectos.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240313181752_UsersTables")]
-    partial class UsersTables
+    [Migration("20240314052110_InitialSchema")]
+    partial class InitialSchema
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -112,6 +112,9 @@ namespace Prospectos.Migrations
 
                     b.Property<string>("cNombre")
                         .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("cObservacionesRechazo")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("cRFC")
