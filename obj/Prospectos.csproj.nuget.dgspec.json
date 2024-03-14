@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\source\\repos\\Prospectos\\Prospectos.csproj": {}
+    "C:\\Users\\OctoPC\\Documents\\Apps\\eva-crm-back\\Prospectos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\source\\repos\\Prospectos\\Prospectos.csproj": {
+    "C:\\Users\\OctoPC\\Documents\\Apps\\eva-crm-back\\Prospectos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Prospectos\\Prospectos.csproj",
+        "projectUniqueName": "C:\\Users\\OctoPC\\Documents\\Apps\\eva-crm-back\\Prospectos.csproj",
         "projectName": "Prospectos",
-        "projectPath": "C:\\Users\\chris\\source\\repos\\Prospectos\\Prospectos.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\source\\repos\\Prospectos\\obj\\",
+        "projectPath": "C:\\Users\\OctoPC\\Documents\\Apps\\eva-crm-back\\Prospectos.csproj",
+        "packagesPath": "C:\\Users\\OctoPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OctoPC\\Documents\\Apps\\eva-crm-back\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OctoPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
