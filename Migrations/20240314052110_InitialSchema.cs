@@ -129,9 +129,9 @@ namespace Prospectos.Migrations
             migrationBuilder.Sql("INSERT INTO Users(login, firstName, lastName, email, activated, langKey, nAuthority, password, imageUrl) " +
                                             "Values('admin', 'Christian', 'Rivera', 'iscchristianrivera@gmail.com', true, 'es', 1, 'admin', '')");
             migrationBuilder.Sql("INSERT INTO Users(login, firstName, lastName, email, activated, langKey, nAuthority, password, imageUrl) " +
-                                            "Values('promotor', 'Armando', 'Varela', 'promotor@mail.com', true, 'es', 1, 'promotor00', '')");
+                                            "Values('promotor', 'Armando', 'Varela', 'promotor@mail.com', true, 'es', 2, 'promotor00', '')");
             migrationBuilder.Sql("INSERT INTO Users(login, firstName, lastName, email, activated, langKey, nAuthority, password, imageUrl) " +
-                                            "Values('evaluador', 'Jessica', 'Castro', 'evaluadora@mail.com', true, 'es', 1, 'evaluador00', '')");
+                                            "Values('evaluador', 'Jessica', 'Castro', 'evaluadora@mail.com', true, 'es', 3, 'evaluador00', '')");
 
             migrationBuilder.Sql("INSERT INTO Estatus(cEstatus, bActivo) Values('Enviado', true)");
             migrationBuilder.Sql("INSERT INTO Estatus(cEstatus, bActivo) Values('Autorizado', true)");
