@@ -9,7 +9,7 @@ Repositorio del código de Back para evaluación técnica
 ## Ejecutar el comando `dotnet tool install --global dotnet-ef` en la terminal de VS
 ## opcional `ASP.NET MVC4
 
-## Pasos a seguir para tener listo el ambiente para el backde forma `local`
+## Pasos a seguir para tener listo el ambiente para el backend forma `local`
 - Abrir la solución
 - Limpiar la solución
 - Compliar la solución
